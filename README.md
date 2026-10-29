@@ -15,6 +15,8 @@ A research project by **[NEURA MED AI](https://github.com/NeuraMed-AI-Works)**
 
 [Live Demo](https://scantwin.streamlit.app) &nbsp;|&nbsp; [Quick Start](#quick-start) &nbsp;|&nbsp; [Features](#key-features) &nbsp;|&nbsp; [Documentation](#documentation) &nbsp;|&nbsp; [Citation](#citation)
 
+### 👉 [**Try Scantwin live**](https://paperpilot-a4dykv4osjzyhguqsmencn.streamlit.app/) 👈
+
 </div>
 
 <br/>
