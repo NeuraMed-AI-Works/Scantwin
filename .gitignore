@@ -1,0 +1,44 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.venv/
+env/
+venv/
+.DS_Store
+Thumbs.db
+results/figures/*.png
+results/tables/*.csv
+results/experiments/*.json
+!results/figures/.gitkeep
+!results/tables/.gitkeep
+!results/experiments/.gitkeep
+models/*.joblib
+
+# Secrets and local config
+.env
+.streamlit/secrets.toml
+
+# Editors
+.vscode/
+.idea/
+
+# Jupyter / misc
+.ipynb_checkpoints/
+*.log
+
+# Local data (never commit patient or licensed data)
+data/*
+!data/README.md
+!data/.gitkeep
+
+# Experiment outputs (keep folder, not the files)
+results/*
+!results/.gitkeep
+!results/README.md

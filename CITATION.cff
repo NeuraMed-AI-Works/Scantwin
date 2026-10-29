@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ScanTwin: An Intelligent Digital Twin for Exposure-Aware Optimization of Medical Image Acquisition and Reconstruction"
+type: software
+authors:
+  - name: "NEURA MED AI"
+repository-code: "https://github.com/NeuraMed-AI-Works/scantwin"
+license: MIT
+version: "3.0"
+date-released: "2026-10-29"
+keywords:
+  - digital twin
+  - medical imaging
+  - CT
+  - MRI
+  - ultrasound
+  - X-ray
+  - image reconstruction
